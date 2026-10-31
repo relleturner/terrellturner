@@ -1,4 +1,4 @@
-# Terrell Turner
+# Relle Turner
 
 Full-stack developer, 3D artist, robotics nerd.
 
